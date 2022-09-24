@@ -3,7 +3,7 @@ Este repositório contêm a resolução do projeto de modelagem conceitual de ba
 
 Para tal, foram realizados os exemplos da aula:
 
-##Ordem de pedido
+##Ordem de pedido<br>
 ![Ordem](https://user-images.githubusercontent.com/94084352/192076228-655e2068-d330-44a3-9061-631a3f156ff6.png)
 
 ##Universidade
